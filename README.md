@@ -1,4 +1,7 @@
 # 💬 MERN Chat App
+
+[🚀 Live Demo](https://chatty-app-s1d7.onrender.com/)
+
 A real-time chat application built with the **MERN Stack** that allows users to create accounts, log in, and send messages instantly.
 The application supports real-time communication using WebSockets and provides a modern responsive UI.
 
